@@ -1,6 +1,6 @@
 # Terms of Service (TOS) for the Discord Bot "Tournament Assistant"
 
-_Last updated: 01/12/2026_
+_Last updated: 01/25/2026_
 
 ## 1. Introduction
 These Terms of Service ("TOS") govern the use of the Discord bot **Tournament Assistant** ("Bot").  
