@@ -78,6 +78,17 @@ the Bot operator may take the following actions:
 All decisions regarding violations, enforcement, or interpretation of these TOS are made **solely at the discretion of the Bot operator or the moderation team**.  
 There is no obligation to justify moderation decisions.
 
+### 6.2 External Misconduct
+The Bot operator reserves the right to restrict or block access to the Bot if a user engages in harmful, abusive, or toxic behavior **outside the Bot**, including but not limited to behavior on other Discord servers or in-game, if such behavior negatively affects the community, the Staff, or the integrity of tournaments.
+
+This includes, but is not limited to:
+- Toxicity, harassment, or abusive conduct on external platforms  
+- In‑game misconduct that impacts tournament fairness  
+- Behavior that threatens or disrupts the safety or well‑being of the community  
+
+Such actions may result in temporary or permanent exclusion from using the Bot.
+
+
 ## 7. Subscription Tiers
 To cover operational costs, the Bot offers optional subscription tiers.
 
